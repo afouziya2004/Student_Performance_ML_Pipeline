@@ -1,16 +1,67 @@
-# Student Performance ML Project
+# 🎓 Student Performance Machine Learning Project
 
-## Goal
-Predict student test score using regression models.
+## 📌 Objective
+Predict student test scores using machine learning regression techniques
+with real-world data preprocessing, feature engineering, and model evaluation.
 
-## Steps Completed
-- Data Exploration
-- Data Cleaning
-- Feature Engineering
-- Interaction Features
+---
+
+## 📊 Workflow
+
+1. Exploratory Data Analysis (EDA)
+2. Data Cleaning & Missing Value Handling
+3. Feature Engineering
+   - Interaction Features
+   - Polynomial Features
+4. Model Training
+5. Model Diagnostics & Improvement
+6. Model Export for Production Use
+
+---
+
+## 🧠 Techniques Used
+
+- Regression Modeling
+- Residual Analysis
+- Interaction Terms
 - Polynomial Features
-- Baseline Model Training
-- Model Improvement
+- Feature Scaling
+- Model Evaluation Metrics
 
-## Tools Used
-Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+---
+
+## 📈 Outputs
+
+- Distribution Visualizations
+- Correlation Heatmaps
+- Residual Analysis
+
+---
+
+## ⚙️ Production Deployment
+
+The final trained model is exported as:
+
+src/final_model.pkl
+
+Prediction script:
+
+src/predict.py
+
+---
+
+## 🛠️ Tech Stack
+
+Python  
+Pandas  
+Scikit-Learn  
+Statsmodels  
+Matplotlib  
+Seaborn  
+
+---
+
+## 🚀 Author
+
+Fouziya A
+M.Sc Computer Science | AI/ML Enthusiast
